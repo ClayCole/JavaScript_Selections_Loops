@@ -2,16 +2,7 @@
 
 ## Getting Started
 
-Exercise Repo: [JavaScript Loops](https://github.com/Bryantellius/JavaScript_Selections_Loops)
-
-1. Open your command line and navigate to your repos directory (if you do not have a repos folder, then you can use mkdir repos to create one)
-2. Use this template repository to start a new project in your repos folder: `git clone <repo_name>`
-3. `cd repo_name` to navigate into your new repo directory
-4. Start Visual Studio Code and select 'Open Folder'. Then select `repo_name` to open the folder in the editor (or just type `code .` in your terminal inside the repo directory)
-5. Follow the instructions on the README.md file to complete exercises
-6. Open the `app.js` file to get started
-
-## Exercise 1: Ignore Even
+## Exercise 1: Ignore Even - DONE 
 
 In this exercise, you will be counting from 1 - 100. For each odd number, you will print the number to the console. If the number is even, do nothing.
 
@@ -19,7 +10,7 @@ In this exercise, you will be counting from 1 - 100. For each odd number, you wi
 2. Inside the loop body, write an `if/else` selection statement that checks whether a number is odd
 3. If the number is odd, then print the number to the console, otherwise do nothing and continue to the next number
 
-## Exercise 2: FIZZBUZZ
+## Exercise 2: FIZZBUZZ - DONE 
 
 FIZZBUZZ is a very common coding interview problem. Below are the instructions to solving the problem:
 
@@ -31,9 +22,9 @@ FIZZBUZZ is a very common coding interview problem. Below are the instructions t
 
 Ex: `15` would print `'FIZZBUZZ'`, `33` would print `'FIZZ'`, and `35` would print `'BUZZ'`
 
-## Exercise 3: Repeat with While and Do/While
+## Exercise 3: Repeat with While and Do/While - DONE 
 
-For exercise 3, repeat both exercise 1 and 2 as `while` and `do/while` loop solutions.
+For exercise 3, repeat both exercise 1 or 2 as `while` and `do/while` loop solutions.
 
 ## Exercise 4: Find Value
 
